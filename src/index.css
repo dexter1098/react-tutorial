@@ -7,3 +7,7 @@
 .myinput {
   @apply w-full block p-2.5 border-2 rounded-lg outline-0;
 }
+
+.mybtn {
+  @apply  cursor-pointer w-[120px] h-[40px] bg-black text-white rounded-lg text-lg;
+}
